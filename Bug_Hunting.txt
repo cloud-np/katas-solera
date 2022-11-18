@@ -1,0 +1,12 @@
+Problem 1 : bounds[j+ 1] != bounds[j+1]   this is wrong
+
+Problem 2 : points.size() this is an array and we should instead use .length
+
+Problem 3 : Doesnt guarantee the return type to be correct.
+
+Problem 4 : start and end variables are not defined
+
+Problem 5 : 0xff represents the value of -1 because Java uses two's complement to represent signed values.
+
+Problem 6 : The types are incompatible, because of lossy conversion from int to byte.
+
